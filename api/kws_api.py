@@ -1,5 +1,5 @@
 """
-	Author: Duk Panhavad, Hoeurnly Hov
+	Author: Duk Panhavad, Hoeurn Lyhov
 	Writen date: 13June2019
 	Version: v0.1
 """
